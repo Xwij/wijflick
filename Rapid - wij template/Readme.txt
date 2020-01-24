@@ -1,6 +1,7 @@
 Thanks for downloading this theme!
 
-Theme Name: Rapid
-Theme URL: https://bootstrapmade.com/rapid-multipurpose-bootstrap-business-template/
+Theme Name: Black254
 Author: BootstrapMade.com
 Author URL: https://bootstrapmade.com
+Developer: Wij peters
+Developers URL: https://www.facebook.com/wij360
